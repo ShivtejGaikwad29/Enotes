@@ -41,4 +41,4 @@ Enotes is a simple and user-friendly web application for managing personal notes
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Enotes.git
+   git clone https://github.com/ShivtejGaikwad29/Enotes.git
