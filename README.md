@@ -8,7 +8,7 @@ Enotes is a simple and user-friendly web application for managing personal notes
 
 - Java 17
 - Spring Boot
-- Spring Security with JWT (if used)
+- Spring Security with JWT
 - Thymeleaf
 - MySQL
 - HTML/CSS
