@@ -1,4 +1,4 @@
-# 📝 Enotes - Your Personal Note Manager.
+# 📝 Enotes - Your Personal Note Manager
 
 Enotes is a simple and user-friendly web application for managing personal notes. It includes login/signup functionality, note creation, editing, viewing, and deletion — all with a clean interface using **Spring Boot**, **Thymeleaf**, and **MySQL**.
 
